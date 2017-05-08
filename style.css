@@ -2,7 +2,7 @@ img{
 	heigth:900px;
 	width:auto;
 }
-p #special{
+p, #special{
 
 	font-size:80px;
 	color:red;
