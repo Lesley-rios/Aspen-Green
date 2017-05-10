@@ -14,11 +14,16 @@ p, #special{
 
 }
 #lala{
-		heigth:400px;
+		heigth:300px;
 		width:auto;
 }
 
 #lala{
-		height:200px;
+		height:300px;
+		width: auto;
+}
+
+#lala{
+		height:300px;
 		width: auto;
 }
