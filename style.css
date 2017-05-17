@@ -5,7 +5,7 @@ img{
 p, #special{
 
 	font-size:40px;
-	color:Green;
+	color:white;
 
 }
 #olo{
@@ -26,5 +26,5 @@ p, #special{
 }
 
 body{
-		background-image:url("fondo_1.jpg");
+		background-image:url("fondo_2.jpg");
 }
