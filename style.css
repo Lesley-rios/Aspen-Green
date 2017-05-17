@@ -13,27 +13,18 @@ p, #special{
 	width:auto;
 
 }
-#lala{
-		heigth:200px;
-		width:auto;
+#row{
+		/*heigth:200px;*/
+		/*width:auto;*/
+		margin-top: 50px;
+		margin-bottom: 50px;
 }
 
 #lala{
-		height:200px;
+		height:300px;
 		width: auto;
 }
 
-#lala{
-		height:200px;
-		width: auto;
+body{
+		background-image:url("fondo_1.jpg");
 }
-
-#lala{
-		height: 300px;
-		width: auto;
-	}
-
-#lala{
-		width: 300px;
-		width: auto;
-	}
