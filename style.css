@@ -28,3 +28,10 @@ li,p, #special{
 body{
 		background-image:url("fondo_2.jpg");
 }
+
+h1{
+	font-size:60px;
+	color: red;
+
+}
+#panfila{text-align: center;}
